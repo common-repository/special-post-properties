@@ -1,0 +1,54 @@
+/*
+
+This is an example file of the portfolio items widget style sheet. You can copy
+this file into your theme directory and customize it until it fits your needs.
+
+If this file exists in your theme directory it will be included automaticly
+by the plugin.
+
+*/
+
+
+/* the whole Widget */
+.widget_portfolio_items {
+}
+
+
+/* the list that contains the posts */
+.widget_portfolio_items ul.portfolio-items {
+}
+
+
+/* the list item that contains the link to the post */
+.widget_portfolio_items ul.portfolio-items li {
+}
+
+
+/* the post link itself */
+.widget_portfolio_items ul.portfolio-items li a.post-title {
+}
+
+
+/* the element which contains the post thumb */
+.widget_portfolio_items ul.portfolio-items li .thumb-frame {
+}
+
+
+/* the link to the post (with the thumb inside) */
+.widget_portfolio_items ul.portfolio-items li .thumb-frame a {
+}
+
+
+/* the post thumbnail itself */
+.widget_portfolio_items ul.portfolio-items li .thumb-frame a img {
+}
+
+
+/* the element that contains the paragraph with the post excerpt */
+.widget_portfolio_items ul.portfolio-items li .excerpt {
+}
+
+
+/* the excerpt paragraph itself */
+.widget_portfolio_items ul.portfolio-items li .excerpt p {
+}

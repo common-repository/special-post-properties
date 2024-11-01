@@ -1,0 +1,54 @@
+/*
+
+This is an example file of the featured posts widget style sheet. You can copy
+this file into your theme directory and customize it until it fits your needs.
+
+If this file exists in your theme directory it will be included automaticly
+by the plugin.
+
+*/
+
+
+/* the whole Widget */
+.widget_featured_posts {
+}
+
+
+/* the list that contains the posts */
+.widget_featured_posts ul.featured-posts {
+}
+
+
+/* the list item that contains the link to the post */
+.widget_featured_posts ul.featured-posts li {
+}
+
+
+/* the post link itself */
+.widget_featured_posts ul.featured-posts li a.post-title {
+}
+
+
+/* the element which contains the post thumb */
+.widget_featured_posts ul.featured-posts li .thumb-frame {
+}
+
+
+/* the link to the post (with the thumb inside) */
+.widget_featured_posts ul.featured-posts li .thumb-frame a {
+}
+
+
+/* the post thumbnail itself */
+.widget_featured_posts ul.featured-posts li .thumb-frame a img {
+}
+
+
+/* the element that contains the paragraph with the post excerpt */
+.widget_featured_posts ul.featured-posts li .excerpt {
+}
+
+
+/* the excerpt paragraph itself */
+.widget_featured_posts ul.featured-posts li .excerpt p {
+}

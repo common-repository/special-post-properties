@@ -1,0 +1,29 @@
+/*
+
+This is an example file of the random images widget style sheet. You can copy
+this file into your theme directory and customize it until it fits your needs.
+
+If this file exists in your theme directory it will be included automaticly
+by the plugin.
+
+*/
+
+
+/* the whole Widget */
+.widget_random_images {
+}
+
+
+/* the element which contains the post thumb */
+.widget_random_images .thumb-frame {
+}
+
+
+/* the link to the post (with the thumb inside) */
+.widget_random_images .thumb-frame a {
+}
+
+
+/* the post thumbnail itself */
+.widget_random_images .thumb-frame a img {
+}

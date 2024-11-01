@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Special post properties Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-10 07:59+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Dennis Hoppe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-plugin-special-post-properties.php:53
+msgid "Special properties of this post"
+msgstr "Besondere Eigenschaften"
+
+#: ../wp-plugin-special-post-properties.php:63
+msgid "Here you can select additional special properties of this post."
+msgstr "Hier können Sie zusätzliche besondere Eigenschaften dieses Artikels festlegen."
+
+#: ../wp-plugin-special-post-properties.php:68
+msgid "Featured post"
+msgstr "Hervorgehobener Artikel"
+
+#: ../wp-plugin-special-post-properties.php:73
+msgid "Gallery post"
+msgstr "Galerie"
+
+#: ../wp-plugin-special-post-properties.php:78
+msgid "Portfolio item"
+msgstr "Ins Portfolio aufnehmen"
+
+#: ../widget_featured_posts/widget.php:11
+#: ../widget_featured_posts/widget.php:14
+#: ../widget_featured_posts/widget.php:17
+msgid "Featured posts"
+msgstr "Featured Artikel"
+
+#: ../widget_featured_posts/widget.php:12
+msgid "Shows featured posts in your sidebar."
+msgstr "Zeigt hervorgehobene Artikel (Featured Artikel) in Ihrer Sidebar."
+
+#: ../widget_featured_posts/form.php:2
+#: ../widget_gallery_posts/form.php:2
+#: ../widget_random_images/form.php:2
+#: ../widget_portfolio_items/form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: ../widget_featured_posts/form.php:7
+#: ../widget_gallery_posts/form.php:7
+#: ../widget_portfolio_items/form.php:7
+msgid "Number of posts"
+msgstr "Anzahl der Beiträge"
+
+#: ../widget_featured_posts/form.php:11
+#: ../widget_gallery_posts/form.php:11
+#: ../widget_portfolio_items/form.php:11
+msgid "Display"
+msgstr "Anzeige"
+
+#: ../widget_featured_posts/form.php:13
+#: ../widget_gallery_posts/form.php:13
+#: ../widget_portfolio_items/form.php:13
+msgid "Please select at least one of the following options. Otherwise the widget will be empty."
+msgstr "Bitte wählen Sie mindestens eine der folgenden Optionen. Anderenfalls bleibt das Widget leer."
+
+#: ../widget_featured_posts/form.php:17
+#: ../widget_gallery_posts/form.php:17
+#: ../widget_portfolio_items/form.php:17
+msgid "Display post title"
+msgstr "Artikeltitel anzeigen"
+
+#: ../widget_featured_posts/form.php:22
+#: ../widget_gallery_posts/form.php:22
+#: ../widget_portfolio_items/form.php:22
+msgid "Display thumbnail"
+msgstr "Vorschaubild anzeigen"
+
+#: ../widget_featured_posts/form.php:27
+#: ../widget_gallery_posts/form.php:27
+#: ../widget_portfolio_items/form.php:27
+msgid "Display excerpt"
+msgstr "Textauszug anzeigen"
+
+#: ../widget_gallery_posts/widget.php:11
+#: ../widget_gallery_posts/widget.php:14
+#: ../widget_gallery_posts/widget.php:17
+msgid "Galleries"
+msgstr "Galerien"
+
+#: ../widget_gallery_posts/widget.php:12
+msgid "Shows galleries on your sidebar."
+msgstr "Zeigt Gallerien in Ihrer Sidebar."
+
+#: ../widget_random_images/widget.php:11
+#: ../widget_random_images/widget.php:14
+#: ../widget_random_images/widget.php:17
+msgid "Random images"
+msgstr "Zufallsbilder"
+
+#: ../widget_random_images/widget.php:12
+msgid "Shows random images on your sidebar."
+msgstr "Zeigt zufällige Bilder in Ihrer Sidebar."
+
+#: ../widget_random_images/form.php:7
+msgid "Number of images"
+msgstr "Anzahl der Bilder"
+
+#: ../widget_portfolio_items/widget.php:11
+#: ../widget_portfolio_items/widget.php:14
+msgid "Portfolio items"
+msgstr "Portfolio"
+
+#: ../widget_portfolio_items/widget.php:12
+msgid "Shows the Portfolio items in your sidebar."
+msgstr "Zeigt Ihr Portfolio in der Sidebar."
+
+#: ../widget_portfolio_items/widget.php:17
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+#~ msgid "Number of posts:"
+#~ msgstr "Anzahl an Beiträgen:"
+#~ msgid "This post is a featured post."
+#~ msgstr "Diesen Artikel hervorheben. (Featured Artikel)"
+#~ msgid "This post is a gallery."
+#~ msgstr "Diesen Beitrag als Galerie markieren."
+
